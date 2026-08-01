@@ -1,6 +1,14 @@
 # PocketDeck
 Open-source ESP32 handheld device project
 
+## Disclaimer
+
+This project may involve modifying electronics, soldering, and working with hardware components.
+
+Some modifications can damage components or create safety risks if done incorrectly. Only attempt hardware changes if you understand the risks and use proper tools and safety practices.
+
+The creators are not responsible for damaged hardware or issues caused by modifications.
+
 ## Main Goal
 
 Create an open-source ESP32 handheld device inspired by projects like Meshtastic and LoRa-based devices.
