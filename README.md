@@ -13,6 +13,6 @@ See the hardware file for current parts and details.
 
 ## Status
 
-Prototype stage.
+Research stage.
 
 More details will be added as the project develops.
