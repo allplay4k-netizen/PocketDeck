@@ -15,6 +15,12 @@ Create an open-source ESP32 handheld device inspired by projects like Meshtastic
 
 The goal is to create a customizable and expandable portable device with features added over time. The exact hardware and features are still being planned.
 
+## Power System
+
+The board includes a battery connector.
+Battery protection features are currently being investigated.
+Use only compatible single-cell Li-ion/LiPo batteries.
+
 ## Hardware
 
 See the hardware file for current parts and details.
